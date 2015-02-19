@@ -159,9 +159,9 @@ nav a:hover {
     padding-left: 20px;
 
 }
-
-
-
+.dl-horizontal dt
+{float:left;width:300px;overflow:hidden;clear:left;text-align:right;text-overflow:ellipsis;white-space:nowrap}
+.dl-horizontal dd{margin-left:180px}
 
 
 
