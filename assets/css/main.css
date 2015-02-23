@@ -288,8 +288,11 @@ background: #d82c2e;
 sm {
 	font-size: 12px;
 }
+
+lar{
+    font-size: 50px;
+}
 .timeline {
-	
     list-style: none;
     padding: 20px 0 20px;
     position: relative;
