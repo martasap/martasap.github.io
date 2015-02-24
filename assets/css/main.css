@@ -12,7 +12,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Proxima Nova";
+    font-family: "Lato";
     font-weight: 300;
     color: #333;
 }
@@ -153,7 +153,7 @@ float: none;
 #headerwrap {
 
 background: #d82c2e;
-	margin-top: 60px;
+	margin-top: 54px;
 	padding-top:140px;
 	text-align:center;
 	background-attachment: relative;
