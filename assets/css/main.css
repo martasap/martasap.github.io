@@ -185,7 +185,7 @@ background: #d82c2e;
 /* Intnro Wrap */
 
 #intro {
-	background: #2c3e50;
+	background: #eb5353;
 	padding-top: 60px;
 	padding-bottom: 60px;
 	color: white;
@@ -204,7 +204,7 @@ background: #d82c2e;
 
 
 #skillswrap {
-	background: #2c3e50;
+	background: #eb5353;
 	padding-top: 60px;
 	padding-bottom: 60px;
 	color: white;
@@ -285,6 +285,7 @@ sm {
 lar{
     font-size: 50px;
 }
+
 .timeline {
     list-style: none;
     padding: 20px 0 20px;
